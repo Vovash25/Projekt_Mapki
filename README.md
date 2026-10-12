@@ -328,9 +328,8 @@ Zamknięcie panelu z kodu: `closeRoom()`.
 
 ## 11. Do zrobienia / do ustalenia
 
-- [ ] Podłączyć kod kolegi z planem sali (rozdział 7).
+- [ ] Podłączyć kod z planem sali (rozdział 7).
 - [ ] Wpisać prawdziwe sale i wykładowców do plików Excel.
 - [ ] Ustalić, jakie ID sali przekazuje mapa (fallback) – musi pasować do `id` w `sale.xlsx`.
 - [ ] Ustalić, co pokazywać po wyborze wykładowcy (teraz: jego gabinet).
-- [ ] Ustalić, czym jest „Nr dziennika” w wyszukiwarce – teraz nieobsługiwany.
 - [ ] Sprawdzić na telefonie z Androidem (WebView czy przeglądarka).
